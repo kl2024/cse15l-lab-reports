@@ -4,6 +4,11 @@
 You will write a tutorial for incoming 15L students (and your future self!) about how to log into a course-specific account on `ieng6`. Your post should include the steps you took, along with screenshots of what each step looked like. You’re free to use the screenshots you took for lab 1, or new ones. Complete any steps you didn’t complete in your group on your own.**
 
 ## Step 1: Installing VScode
+Download VScode by going to the [Visual Studio Code website](https://code.visualstudio.com/) and following the instructions either for OS (for Macs) or Windows(for PCs) to download and install it on your computer.
+
+Once you have installed VScode, you should be able to click and open a new VScode window that looks like this:
+
+![Image](https://user-images.githubusercontent.com/103288212/162543554-4f7cb23d-15a8-428d-95dd-bf9abcea94dd.png)
 
 ## Step 2: Remotely Connecting
 
