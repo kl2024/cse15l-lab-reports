@@ -12,6 +12,9 @@ Once you have installed VScode, you should be able to click and open a new VScod
 
 ## Step 2: Remotely Connecting
 
+Install the [OpenSSH program](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse), which can connect your computer to other computers that have this kind of account:
+
+
 ## Step 3: Trying Some Commands
 
 ## Step 4: Moving Files with `scp`
