@@ -17,9 +17,18 @@ Install the [OpenSSH program](https://docs.microsoft.com/en-us/windows-server/ad
 
 ## Step 3: Trying Some Commands
 
+![Image](https://user-images.githubusercontent.com/103288212/163479599-52d91012-21e0-4ba7-b341-430be412375f.png)
+
+
 ## Step 4: Moving Files with `scp`
 
+![Image](https://user-images.githubusercontent.com/103288212/163479785-7475aa60-9d02-4783-88a1-dc312ea53db7.png)
+
+
 ## Step 5: Setting an SSH Key
+
+![Image](https://user-images.githubusercontent.com/103288212/163480035-2a36be7c-0df1-405a-8bd7-cbc60046e792.png)
+
 
 ## Step 6: Optimizing Remote Running
 
