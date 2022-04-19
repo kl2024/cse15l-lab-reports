@@ -78,20 +78,20 @@ The key's randomart image is:
 ![Image](https://user-images.githubusercontent.com/103288212/163480035-2a36be7c-0df1-405a-8bd7-cbc60046e792.png)
 
 Now we need to copy the public (not the private) key to the `.ssh` directory of your server account.
-`$ ssh cs15lsp22zz@ieng6.ucsd.edu
-<Enter Password>
-# now on server
-$ mkdir .ssh
-$ <logout>
-# back on client
-$ scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys
-# You use your username and the path you saw in the command above`
+`$ ssh cs15lsp22zz@ieng6.ucsd.edu`
+`<Enter Password>`
+`# now on server`
+`$ mkdir .ssh`
+`$ <logout>`
+`# back on client`
+`$ scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys`
+`# You use your username and the path you saw in the command above`
 
 Congratulations! You should now be able to `ssh` or `scp` from this client to the server without entering your password.
 
 ## Step 6: Optimizing Remote Running
 
-To make local edits to a java file, then copying it to the remote server and running it, you can use semicolons to run multiple commands on the same line in most terminals.
+Guess what? You can make an even more pleasant process for making a local edit, copying it to a remote server, and then running it by reducing the process to one command. You can write a command in quotes at the end of an `ssh` command to directly run it on the remote server, then exit. Using semicolons can also run multiple commands on the same line in most terminals.
 
 Try running:
 `scp filename.java cs15lsp22xxx@ieng6.ucsd.edu:~/; ssh cs15lsp22xxx@ieng6.ucsd.edu; "javac filename.java"; "java filename"`
