@@ -57,27 +57,28 @@ Enter passphrase (empty for no passphrase): `
 
 **Note: Make sure that you do not add a passphrase for this step.**
 
-`Enter same passphrase again: 
-Your identification has been saved in /Users/<user-name>/.ssh/id_rsa.
-Your public key has been saved in /Users/<user-name>/.ssh/id_rsa.pub.
-The key fingerprint is:
-SHA256:jZaZH6fI8E2I1D35hnvGeBePQ4ELOf2Ge+G0XknoXp0 <user-name>@<system>.local
-The key's randomart image is:
-+---[RSA 3072]----+
-|                 |
-|       . . + .   |
-|      . . B o .  |
-|     . . B * +.. |
-|      o S = *.B. |
-|       = = O.*.*+|
-|        + * *.BE+|
-|           +.+.o |
-|             ..  |
-+----[SHA256]-----+`
+`Enter same passphrase again: `
+`Your identification has been saved in /Users/<user-name>/.ssh/id_rsa.`
+`Your public key has been saved in /Users/<user-name>/.ssh/id_rsa.pub.`
+`The key fingerprint is:`
+`SHA256:jZaZH6fI8E2I1D35hnvGeBePQ4ELOf2Ge+G0XknoXp0 <user-name>@<system>.local`
+`The key's randomart image is:`
+`+---[RSA 3072]----+`
+`|                 |`
+`|       . . + .   |`
+`|      . . B o .  |`
+`|     . . B * +.. |`
+`|      o S = *.B. |`
+`|       = = O.*.*+|`
+`|        + * *.BE+|`
+`|           +.+.o |`
+`|             ..  |`
+`+----[SHA256]-----+`
 
 ![Image](https://user-images.githubusercontent.com/103288212/163480035-2a36be7c-0df1-405a-8bd7-cbc60046e792.png)
 
 Now we need to copy the public (not the private) key to the `.ssh` directory of your server account.
+
 `$ ssh cs15lsp22zz@ieng6.ucsd.edu`
 `<Enter Password>`
 `# now on server`
