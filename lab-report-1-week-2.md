@@ -95,6 +95,8 @@ Congratulations! You should now be able to `ssh` or `scp` from this client to th
 Guess what? You can make an even more pleasant process for making a local edit, copying it to a remote server, and then running it by reducing the process to one command. You can write a command in quotes at the end of an `ssh` command to directly run it on the remote server, then exit. Using semicolons can also run multiple commands on the same line in most terminals.
 
 Try running:
+
 `scp filename.java cs15lsp22xxx@ieng6.ucsd.edu:~/; ssh cs15lsp22xxx@ieng6.ucsd.edu; "javac filename.java"; "java filename"`
 
-![Image](https://user-images.githubusercontent.com/103288212/162539700-61159244-3494-4ec7-b267-011f8adaa2d5.png)
+![Image](https://user-images.githubusercontent.com/103288212/163940919-eeb24391-6a5e-4217-ad63-e3662c464091.png)
+
