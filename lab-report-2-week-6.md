@@ -6,7 +6,7 @@ Here is the `.ssh/config` file:
 
 ![Image](https://user-images.githubusercontent.com/103288212/168501433-fb0236c6-6a5a-4ad9-b359-8f4551f7ceee.png)
 
-Here is the`ssh` command of my login:
+Here is the `ssh` command of my login:
 
 ![Image](https://user-images.githubusercontent.com/103288212/168501512-4c37be74-07f5-496f-9692-763395196270.png)
 
