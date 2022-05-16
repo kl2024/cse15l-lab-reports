@@ -28,8 +28,16 @@ Where the `ssh` keys are stored on the server:
 Running `git` commands to commit and push a change to Github while logged into ieng6 account:
 
 ![Image](https://user-images.githubusercontent.com/103288212/168672876-d9968e84-5fb1-4903-af21-113e1ffca842.png)
+![Image](https://user-images.githubusercontent.com/103288212/168674721-2ce27a39-c02d-4ee3-9d56-d18ad9f77134.png)
 
 
-[Link to commit]()
+[Link to commit](https://github.com/ima-quack/markdown-parser/compare/main...kl2024:main)
 
 ## Copy whole directories with `scp -r`
+
+Copying your markdown-parse directory to my ieng6 account:
+![Image](https://user-images.githubusercontent.com/103288212/168675650-3db552ea-2b03-4d07-a1ba-a68ced388861.png)
+
+Running markdown-parser (tests should fail because I just changed them to the code to the one from this week's quiz):
+![Image](https://user-images.githubusercontent.com/103288212/168675930-3863fa5e-a320-4a15-a845-6cc018c274ad.png)
+
