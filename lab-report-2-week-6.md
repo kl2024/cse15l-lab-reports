@@ -27,6 +27,9 @@ Where the `ssh` keys are stored on the server:
 
 Running `git` commands to commit and push a change to Github while logged into ieng6 account:
 
+![Image](https://user-images.githubusercontent.com/103288212/168672876-d9968e84-5fb1-4903-af21-113e1ffca842.png)
+
+
 [Link to commit]()
 
 ## Copy whole directories with `scp -r`
