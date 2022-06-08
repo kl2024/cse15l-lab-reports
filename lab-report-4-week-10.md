@@ -10,12 +10,17 @@ Link to test files:
 - [Test 22](https://github.com/nidhidhamnani/markdown-parser/blob/8dd87e6914ae40a4321aac8e2483e349de40b03c/test-files/22.md)
 - [Test 194](https://github.com/nidhidhamnani/markdown-parser/blob/8dd87e6914ae40a4321aac8e2483e349de40b03c/test-files/194.md)
 
-## Test 1
+## Test 22
 
-According to the [CommonMark demo](https://spec.commonmark.org/dingus/) the correct output should be `[/bar\* “ti\*tle”]`. 
+Using the [CommonMark demo](https://spec.commonmark.org/dingus/) site, the correct output should be `[/bar\* “ti\*tle”]`. 
+
+Expected:
+![image](https://user-images.githubusercontent.com/103288212/172571623-6a0fd5ae-88aa-45cc-b425-3f31f68541fd.png)
+
+Actual:
 ![image](https://user-images.githubusercontent.com/103288212/172571016-38f016a4-32dd-4b9d-b316-ff6f7f11971f.png)
 
 
-## Test 2
+## Test 194
 
 According to the [CommonMark demo](https://spec.commonmark.org/dingus/) the correct output should be `[url]`.
