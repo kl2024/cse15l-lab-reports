@@ -15,7 +15,8 @@ Link to test files:
 Using the [CommonMark demo](https://spec.commonmark.org/dingus/) site, the correct output should be `[/bar\* “ti\*tle”]`. 
 
 Expected:
-![image](https://user-images.githubusercontent.com/103288212/172571623-6a0fd5ae-88aa-45cc-b425-3f31f68541fd.png)
+![image](https://user-images.githubusercontent.com/103288212/172572342-ea68e74f-c95e-4ce0-9c16-e163dcaa5945.png)
+
 
 Actual:
 ![image](https://user-images.githubusercontent.com/103288212/172571016-38f016a4-32dd-4b9d-b316-ff6f7f11971f.png)
