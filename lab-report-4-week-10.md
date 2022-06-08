@@ -27,7 +27,7 @@ Actual:
 Using the [CommonMark demo](https://spec.commonmark.org/dingus/) site, the correct output should be `[url]`.
 
 Expected:
-![image](https://user-images.githubusercontent.com/103288212/172574314-5bc3e07e-5f6c-4c84-9e9c-5ba79dfdf5f6.png)
+![image](https://user-images.githubusercontent.com/103288212/172575164-0aa185b6-34a7-4e5a-bd54-b4ae202c6f2f.png)
 
 
 Actual:
